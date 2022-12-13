@@ -1,4 +1,4 @@
-# Telegrtam notification
+# Telegram notification
 Script to notify text by Push Services, use it in any of your custom script!
 ## Installation
 

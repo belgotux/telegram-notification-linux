@@ -1,0 +1,4 @@
+logfile=/var/log/$(basename $0 .conf).log
+providerApi='https://api.telegram.org'
+accessToken=''
+chatID=''

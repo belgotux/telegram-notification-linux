@@ -35,6 +35,8 @@ telegram-notification.sh -m "service blabla need attention" -w
 telegram-notification.sh -m "simple report"
 telegram-notification.sh -m "simple report with title" -t "my title \xF0\x9F\x90\xA2" 
 ```
+![image](https://user-images.githubusercontent.com/11537542/208308788-318df4c9-883b-4301-a4ed-ba4daaf6279e.png)
+
 If you need Emoji, [go to Emoji Unicode Tables](https://apps.timwhitlock.info/emoji/tables/unicode)
 
 ## Improvement
